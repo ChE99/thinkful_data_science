@@ -1,1 +1,1 @@
-# Thinkful Data Science bootcamp drills, challenges and captsone projects.
+# Thinkful data science bootcamp drills, challenges and capstone projects.
